@@ -122,6 +122,7 @@ instancia.borrarPorId(3)
 
 instancia.obtenerPorId(2)
 
+module.exports = ProductManager;
 /*async actualizarProducto(productId, actualizarData) {
   try {
     
